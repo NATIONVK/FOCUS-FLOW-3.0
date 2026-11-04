@@ -1,0 +1,11 @@
+{
+  "name": "FOCUS FLOW",
+  "short_name": "FOCUS",
+  "description": "Professional Study Timer and Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070910",
+  "theme_color": "#070910",
+  "icons": []
+}
